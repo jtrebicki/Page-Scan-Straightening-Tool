@@ -22,6 +22,8 @@ python3 transformImages.py
 
 Click the four corners of your page in the following order: Left top, right top, right bottom, left bottom
 
+(The points in the following image are not optimally placed; they are there to show the user interface. You have to experiment with the right positioning of the corners. From further testing, on the below page, I would place the top left point further down right, the bottom right more up and the bottom left more up and left!)
+
 ![image-20231106173718875](./README.assets/image-20231106173718875.png)
 
 ![image-20231106173742057](./README.assets/image-20231106173742057.png)
@@ -34,13 +36,23 @@ You can find all outputs in the "done" folder, and all source images will be mov
 
 ## Results
 
-Input image:
+### Input image 1:
 
-<img src="./README.assets/IMG_20231106_165109.jpg" alt="IMG_20231106_165109" style="zoom:50%;" />
+![image-20231107183050052](README.assets/image-20231107183050052.png)
 
-Output:
+### Output Image 1:
 
-<img src="./README.assets/output0.png" alt="output0" style="zoom:50%;" />
+![image-20231107182912745](README.assets/image-20231107182912745.png)
+
+### 
+
+### Input Image 2:
+
+![image-20231107183039388](README.assets/image-20231107183039388.png)
+
+### Output Image 2:
+
+![image-20231107183011769](README.assets/image-20231107183011769.png)
 
 ## Requirements
 
